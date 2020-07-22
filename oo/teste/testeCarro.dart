@@ -14,6 +14,4 @@ main() {
   }
 
   print("O carro parou com velocidade ${c1.velocidadeAtual} Km/h.");
-
-
 }
